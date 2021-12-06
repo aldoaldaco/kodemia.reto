@@ -1,15 +1,12 @@
 <img src="https://secure.meetupstatic.com/photos/event/2/b/7/0/600_471971120.jpeg"/>
 
-## RETO 2 
+<h1>RETO 2</h1>
 
-
-
-
-<h1 style="text-align: center;">DESCRIPCIÓN</h1>
+<h2 style="text-align: center;">DESCRIPCIÓN</h2>
 
 <p style="color: gray;">Se requiere realizar un proyecto web para mostrar una lista de posts, dicho proyecto debera basarse en el diseño del sitio <strong>dev.to</strong></p>
 
-<h1 style="text-align: center;">REQUERIMIENTOS</h1>
+<h2 style="text-align: center;">REQUERIMIENTOS</h2>
 
 1. El diseño(maqueta) del proyecto se tomará directo de la página web [Dev.to](https://dev.to/)
 <br/>
@@ -43,7 +40,7 @@ dev.to
 
 ```
 
-<h1 style="text-align: center;">EQUIPOS</h1>
+<h2 style="text-align: center;">EQUIPOS</h2>
 
 #### Equipo 1
 
