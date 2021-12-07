@@ -8,11 +8,9 @@
 
 <h2 style="text-align: center;">REQUERIMIENTOS</h2>
 <br/>
-1. El diseño(maqueta) del proyecto se tomará directo de la página web [Dev.to](https://dev.to/)
+1. El diseño(maqueta) del proyecto se tomará directo de la página web Dev.to
 <br/>
 2. Se deben realizar dos páginas de html una contendrá el dashboard en donde se mostrarán todos los post, la segunda será la vista de cada post en donde se mostrará la información detallada de el post que hayamos seleccionado.
-<br/>
-2.1. Si trabajas individual se requiere solo la pagina de dashboard donde se mostraran todos los posts.
 <br/>
 3. Se debe mostrar una seccion header la cual debera estar fija en la parte superior de la pantalla.
 <br/>
