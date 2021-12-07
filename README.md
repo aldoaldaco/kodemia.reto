@@ -38,6 +38,10 @@ dev.to
       └───video.mp4
 
 ```
+5. Trabajar con ramas(rama por desarrollador).
+<br/>
+6. Los estilos en su mayoria deberan estar aplicados con bootstrap.
+
 
 <h2 style="text-align: center;">EQUIPOS</h2>
 
