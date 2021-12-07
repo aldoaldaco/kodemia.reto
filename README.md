@@ -7,10 +7,11 @@
 <p style="color: gray;">Se requiere realizar un proyecto web para mostrar una lista de posts, dicho proyecto debera basarse en el diseño del sitio <strong>dev.to</strong></p>
 
 <h2 style="text-align: center;">REQUERIMIENTOS</h2>
-
+<br/>
 1. El diseño(maqueta) del proyecto se tomará directo de la página web [Dev.to](https://dev.to/)
 <br/>
 2. Se deben realizar dos páginas de html una contendrá el dashboard en donde se mostrarán todos los post, la segunda será la vista de cada post en donde se mostrará la información detallada de el post que hayamos seleccionado.
+<br/>
 2.1. Si trabajas individual se requiere solo la pagina de dashboard donde se mostraran todos los posts.
 <br/>
 3. Se debe mostrar una seccion header la cual debera estar fija en la parte superior de la pantalla.
@@ -44,29 +45,29 @@ dev.to
 
 #### Equipo 1
 
-Jess	
-Rubs	
+Jess
+Bryan
 Cristian
-Victor	
+Monica
 		
 #### Equipo 2
 
 Heidel
-Hector
+Pablo
 Aldahyr
-Monica
+Paco
 
 #### Equipo 3
 
-Erick
-Hector
-Roberto
-Paco
-
-### Individual
-
-Bryan
-Pablo
+Rubs
 Hugo
-Eduardo Portes
+Roberto
 Arturo
+Gustavo
+
+#### Equipo 4
+
+Erick
+Eduardo Portes
+Victor
+Hector
